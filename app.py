@@ -1,5 +1,5 @@
 # Жоба: Кітапхана
-TITLE = "Кітапхана (нұсқа A)"
+TITLE = "Кітапхана (A+B)"
 VERSION = "1.0"
 
 def main():
@@ -7,3 +7,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
