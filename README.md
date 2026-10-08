@@ -2,3 +2,4 @@
 ## Іске қосу
 python3 app.py
 Jenkins Poll SCM test
+Poll SCM second test
